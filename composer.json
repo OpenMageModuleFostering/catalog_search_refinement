@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Catalog_Search_Refinement",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Allow your users to refine their search when they add a search term for FREE!",
+    "authors": [
+    {
+        "name": "Activo Extensions",
+        "email": "extensions@activo.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
